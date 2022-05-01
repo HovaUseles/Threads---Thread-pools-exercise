@@ -1,0 +1,15 @@
+G:\Mit drev\Skole\ZBC - Data og Kommunikation\Hovedforløb 2\repos\Threads - Thread pools exercise\Threads - Thread pools exercise\bin\Debug\net6.0\Threads - Thread pools exercise.exe
+G:\Mit drev\Skole\ZBC - Data og Kommunikation\Hovedforløb 2\repos\Threads - Thread pools exercise\Threads - Thread pools exercise\bin\Debug\net6.0\Threads - Thread pools exercise.deps.json
+G:\Mit drev\Skole\ZBC - Data og Kommunikation\Hovedforløb 2\repos\Threads - Thread pools exercise\Threads - Thread pools exercise\bin\Debug\net6.0\Threads - Thread pools exercise.runtimeconfig.json
+G:\Mit drev\Skole\ZBC - Data og Kommunikation\Hovedforløb 2\repos\Threads - Thread pools exercise\Threads - Thread pools exercise\bin\Debug\net6.0\Threads - Thread pools exercise.dll
+G:\Mit drev\Skole\ZBC - Data og Kommunikation\Hovedforløb 2\repos\Threads - Thread pools exercise\Threads - Thread pools exercise\bin\Debug\net6.0\Threads - Thread pools exercise.pdb
+G:\Mit drev\Skole\ZBC - Data og Kommunikation\Hovedforløb 2\repos\Threads - Thread pools exercise\Threads - Thread pools exercise\obj\Debug\net6.0\Threads - Thread pools exercise.csproj.AssemblyReference.cache
+G:\Mit drev\Skole\ZBC - Data og Kommunikation\Hovedforløb 2\repos\Threads - Thread pools exercise\Threads - Thread pools exercise\obj\Debug\net6.0\Threads - Thread pools exercise.GeneratedMSBuildEditorConfig.editorconfig
+G:\Mit drev\Skole\ZBC - Data og Kommunikation\Hovedforløb 2\repos\Threads - Thread pools exercise\Threads - Thread pools exercise\obj\Debug\net6.0\Threads - Thread pools exercise.AssemblyInfoInputs.cache
+G:\Mit drev\Skole\ZBC - Data og Kommunikation\Hovedforløb 2\repos\Threads - Thread pools exercise\Threads - Thread pools exercise\obj\Debug\net6.0\Threads - Thread pools exercise.AssemblyInfo.cs
+G:\Mit drev\Skole\ZBC - Data og Kommunikation\Hovedforløb 2\repos\Threads - Thread pools exercise\Threads - Thread pools exercise\obj\Debug\net6.0\Threads - Thread pools exercise.csproj.CoreCompileInputs.cache
+G:\Mit drev\Skole\ZBC - Data og Kommunikation\Hovedforløb 2\repos\Threads - Thread pools exercise\Threads - Thread pools exercise\obj\Debug\net6.0\Threads - Thread pools exercise.dll
+G:\Mit drev\Skole\ZBC - Data og Kommunikation\Hovedforløb 2\repos\Threads - Thread pools exercise\Threads - Thread pools exercise\obj\Debug\net6.0\refint\Threads - Thread pools exercise.dll
+G:\Mit drev\Skole\ZBC - Data og Kommunikation\Hovedforløb 2\repos\Threads - Thread pools exercise\Threads - Thread pools exercise\obj\Debug\net6.0\Threads - Thread pools exercise.pdb
+G:\Mit drev\Skole\ZBC - Data og Kommunikation\Hovedforløb 2\repos\Threads - Thread pools exercise\Threads - Thread pools exercise\obj\Debug\net6.0\Threads - Thread pools exercise.genruntimeconfig.cache
+G:\Mit drev\Skole\ZBC - Data og Kommunikation\Hovedforløb 2\repos\Threads - Thread pools exercise\Threads - Thread pools exercise\obj\Debug\net6.0\ref\Threads - Thread pools exercise.dll

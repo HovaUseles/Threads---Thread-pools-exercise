@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Threads - Thread pools exercise/1.0.0": {
+        "runtime": {
+          "Threads - Thread pools exercise.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Threads - Thread pools exercise/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
